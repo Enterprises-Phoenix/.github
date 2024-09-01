@@ -7,5 +7,5 @@
 </h2>
 
 <h3 align="center">
-  This is social media prototype developed by <a href="https://github.com/MilesONerd">MilesONerd</a>
+  This is a social media prototype developed by <a href="https://github.com/MilesONerd">MilesONerd</a>
 </h3>
