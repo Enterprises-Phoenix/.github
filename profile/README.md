@@ -1,5 +1,5 @@
 <h1 align="center">
-  Phoenix Technologies
+  Phoenix Enterprises
 </h1>
 
 <h2 align="center">
