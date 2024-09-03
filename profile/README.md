@@ -1,5 +1,5 @@
 <h1 align="center">
-  Phoenix Rising
+  Phoenix Technologies
 </h1>
 
 <h2 align="center">
@@ -7,5 +7,5 @@
 </h2>
 
 <h3 align="center">
-  This is a social media prototype developed by <a href="https://github.com/MilesONerd">MilesONerd</a>
+  These are technologies developed by <a href="https://github.com/MilesONerd">MilesONerd</a>
 </h3>
